@@ -6,7 +6,7 @@
       {
         "id": "6714dfa7e245793c",
         "type": "tabs",
-        "dimension": 74.79591836734694,
+        "dimension": 77.11171662125341,
         "children": [
           {
             "id": "becb67a6d7258316",
@@ -34,16 +34,20 @@
       {
         "id": "33e606d3755fd7a2",
         "type": "tabs",
-        "dimension": 25.204081632653065,
+        "dimension": 22.888283378746593,
         "children": [
           {
             "id": "d2df5056e8de25e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "docs/visual-style.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "visual-style"
             }
           }
         ]
@@ -212,12 +216,13 @@
   },
   "active": "becb67a6d7258316",
   "lastOpenFiles": [
+    "docs/visual-style.md",
+    "Kanban.md",
+    "2026-05-28.md",
     "Untitled.base",
     "docs/worlds.md",
-    "Kanban.md",
     "docs/game-overview.md",
     "Untitled 1.base",
-    "docs/visual-style.md",
     "docs/npcs.md",
     "docs/narrative.md",
     "docs/mechanics.md",
